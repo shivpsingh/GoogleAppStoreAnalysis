@@ -1,0 +1,14 @@
+# Questions
+
+1. Games installed more than a million copies and rating is above 4.0?
+2. Plot a graph of reviews comparing with there rating? [graph]
+3. Plot avg ratings of apps per category? [graph]
+4. Plot number of free apps per category? [graph]
+5. Plot size comparison between paid and free apps per category? [graph]
+6. Plot paid apps installs versus free app installs? [graph]
+7. Paid apps with highest avg ratings?
+8. Plot paid apps price versus installs?
+9. Preference between paid and free apps among teens?
+10. App with most positive reviews?
+11. Genre with least number of apps?
+
